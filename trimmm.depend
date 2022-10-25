@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664010347 source:c:\users\user\desktop\гоба боба 3.0\trimmm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
